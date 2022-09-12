@@ -15,9 +15,10 @@ namespace day1
             // Ten : Nguyen Ngoc Thinh, Tuoi : 32.
 
             // call 1 class 
-            var lession = new lession1();
-            Console.WriteLine(lession.intro2());
-
+            //var lession = new lession1();
+            //Console.WriteLine(lession.intro2());
+            var lession = new lession2();
+            Console.WriteLine(lession.TinhTong());fdddd
         }
     }
 }
