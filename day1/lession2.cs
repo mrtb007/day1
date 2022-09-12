@@ -14,7 +14,7 @@ namespace day1
         // tao 1 object 
         int num1;
         int num2;
-        public int TinhTong()
+        public string TinhTong()
         {
             Console.WriteLine("Nhap so thu nhat");
             var a = Console.ReadLine();
@@ -25,7 +25,7 @@ namespace day1
             num2 = Convert.ToInt32(b);
 
             int sum = num1 + num2;
-            return sum;
+            return sum.ToString();
         }
 
         public int TinhTong(int a, int b)
