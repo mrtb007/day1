@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace day1
 {
+    /// <summary>
+    /// lession learn to how to create a sum object 
+    /// </summary>
     public class lession2
     {
         // tao 1 object 
