@@ -18,7 +18,7 @@ namespace day1
     public class bt1
     {
         int n = 45;
-        public int bt2()
+        public int testb1()
         {
             if (n > 51)
             {

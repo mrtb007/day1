@@ -25,10 +25,16 @@ namespace day1
             //Console.WriteLine("Hieu 2 so: " + ex.tru2so());
             //Console.WriteLine("Tich 2 so: " + ex.nhan2so());
             //Console.WriteLine("Chia 2 so: " + ex.chia2so());
-            var bt = new bt1();
-            Console.WriteLine(bt.bt2());
+            //var bt = new bt1();
+            //Console.WriteLine(bt.testb1());
 
-            
+            var bt = new bt2();
+            Console.WriteLine(bt2.testb2(30, 0));
+            Console.WriteLine(bt2.testb2(25, 5));
+            Console.WriteLine(bt2.testb2(20, 30));
+            Console.WriteLine(bt2.testb2(20, 25));
+
+
         }
     }
 }
