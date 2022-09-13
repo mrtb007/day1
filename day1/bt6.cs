@@ -33,7 +33,8 @@ namespace day1
             else if (pheptinh == '/')
             {
                 Console.WriteLine($"{a} / {b} = {a / b}");
-            } else Console.WriteLine("Sai phep tinh");
+            }
+            else Console.WriteLine("Sai phep tinh");
         }
     }
 }
