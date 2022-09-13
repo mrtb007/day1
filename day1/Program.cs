@@ -39,7 +39,8 @@ namespace day1
             //Console.WriteLine(bt3.testb3(89));
 
             //bt4.b4();
-            bt5.b5();
+            //bt5.b5();
+            bt6.b6();
 
 
         }
