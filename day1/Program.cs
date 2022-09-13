@@ -28,12 +28,15 @@ namespace day1
             //var bt = new bt1();
             //Console.WriteLine(bt.testb1());
 
-            var bt = new bt2();
-            Console.WriteLine(bt2.testb2(30, 0));
-            Console.WriteLine(bt2.testb2(25, 5));
-            Console.WriteLine(bt2.testb2(20, 30));
-            Console.WriteLine(bt2.testb2(20, 25));
-
+            //var bt = new bt2();
+            //Console.WriteLine(bttestb2(30, 0));
+            //Console.WriteLine(bt.testb2(25, 5));
+            //Console.WriteLine(bt.testb2(20, 30));
+            //Console.WriteLine(bt.testb2(20, 25));
+           
+            Console.WriteLine(bt3.testb3(103));
+            Console.WriteLine(bt3.testb3(90));
+            Console.WriteLine(bt3.testb3(89));
 
         }
     }
